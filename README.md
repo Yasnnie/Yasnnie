@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Pechinchou
 - 🌱 I’m currently learning React Native
-- 📫 How to reach me: carvalho.y@escolar.ifrn.edu.br
+- 📫 How to reach me: dev.cyas@gmail.com
 
 <div>
   <a href="https://github.com/Yasnnie">
