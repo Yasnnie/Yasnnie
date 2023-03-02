@@ -1,8 +1,8 @@
 ### Hi there, I'm Yasmin 👋
 
 
-- 🔭 I’m currently working on Pechinchou
-- 🌱 I’m currently learning React Native
+- 🔭 I’m currently working on NADIC
+- 🌱 I’m currently learning React and React Native
 - 📫 How to reach me: dev.cyas@gmail.com
 
 <div>
