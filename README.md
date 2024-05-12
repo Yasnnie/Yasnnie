@@ -1,28 +1,61 @@
 ### 
 <div  align="center"> 
-  <h1>Hi there, I'm Yasmin 👋</h1>
+  <h1>Hi there, I'm Yasmin Carvalho 👋</h1>
 </div>
 
-- 🔭 I’m currently working on NADIC
-- 🌱 I’m currently learning React and React Native
-- 📫 How to reach me: dev.cyas@gmail.com
+### With a passion for programming since 2020, I specialize in React, React Native, Next.js, and TypeScript, aspiring to become a full-stack developer.
 
-## Technologies I know or have worked with
+## <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Technologies That I Know
 
-<div style="display: inline_block"> 
-  <img align="center"  height="30" width="120" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center"  height="30" width="120" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center"  height="30" width="120" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center"  height="30" width="160" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAF">
-</div>
+<table align="center"><tr><td valign="top" width="33%">
 
-## GitHub Infos
+### <div align="center"> Frontend </div>
 
-<div>
-  <a href="https://github.com/Yasnnie">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasnnie&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasnnie&layout=compact&langs_count=6&theme=midnight-purple&hide=yacc,html,css&include_all_commits=true&count_private=true"/>
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,styledcomponents,redux,cypress&theme=light&perline=3" />
+</p>
+
+</td><td valign="top" width="33%">
+
+### <div align="center"> Backend </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,postgres,mysql&theme=dark&perline=3" />
+</p>
+
+</td><td valign="top" width="33%">
+
+### <div align="center"> Tools </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,vercel,docker,github,git,firebase,vscode,figma&theme=dark&perline=3" />
+</p>
+
+</td></tr></table>
+<br/><br/>
+
+## 📫 Connect With Me
+
+<div align="center">
+<a href="https://www.linkedin.com/in/carvalho-yas/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.yasc.com.br/" target="_blank">
+<img src="https://img.shields.io/badge/mysite-b200ed.svg?&style=for-the-badge&logo=gnometerminal&logoColor=white" alt=mysite style="margin-bottom: 5px;" />
+</a>  
+  
+</div>  
+<br/><br/>
+
+## 📊 GitHub Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yasnnie&theme=react)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yasnnie&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yasnnie&theme=react)
+
+
 
 
   
